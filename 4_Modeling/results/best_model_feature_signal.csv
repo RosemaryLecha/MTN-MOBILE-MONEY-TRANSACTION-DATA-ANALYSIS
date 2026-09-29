@@ -1,0 +1,26 @@
+feature,importance
+num__TX_Per_Month,0.3157368538288072
+num__Avg_Amount_XAF,0.1777585983803965
+num__Median_Amount_XAF,0.1501287953145931
+num__Send_Receive_Ratio,0.13541785239450374
+num__Household size,0.13273508034882361
+cat__Education level_Bachelor,0.12178374280534544
+num__Total_OUT,0.11552480028714296
+num__Total_Transactions,0.11540117233450038
+num__Financial_Transactions,0.10980510406558357
+num__Total_IN_Volume_XAF,0.1064600825138936
+num__Total_OUT_Volume_XAF,0.0943854197140027
+num__Activity_Span_Days,0.09025658312902328
+num__Total_IN,0.08571644972488675
+cat__Geographic zone_Nkoabang ,0.08317263182512068
+cat__Education level_High School,0.07758170703975382
+cat__Gender_Female,0.07601190189737488
+cat__Gender_Male,0.07593531796483065
+cat__Monthly income range_200.000 - 400.000,0.07455236614151095
+cat__Geographic zone_Nkomo maeture ,0.07455236614151095
+cat__Primary use of mobile money_Both,0.07391714937516715
+cat__Profession / Occupation category_Student,0.07327322947055055
+cat__Primary use of mobile money_Personal,0.06242589269708851
+cat__Education level_Secondary,0.0601228217285501
+cat__Profession / Occupation category_Driver,0.0585417640444121
+cat__Demographics_Source_Provided_Form_A,0.05598371278726383

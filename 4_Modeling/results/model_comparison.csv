@@ -1,0 +1,5 @@
+model,best_params,cv_accuracy,cv_f1_macro,cv_precision_macro,cv_recall_macro,test_accuracy,test_precision_macro,test_recall_macro,test_f1_macro,test_roc_auc_ovr_macro
+LogisticRegression,"{""classifier__C"": 0.1, ""classifier__class_weight"": ""balanced""}",0.7967032967032966,0.7886644219977553,0.8134920634920636,0.7999999999999999,1.0,1.0,1.0,1.0,1.0
+RandomForest,"{""classifier__class_weight"": ""balanced_subsample"", ""classifier__max_depth"": 5, ""classifier__min_samples_leaf"": 1, ""classifier__n_estimators"": 300}",0.8498168498168498,0.848709315375982,0.8814814814814814,0.8555555555555555,0.9,0.9166666666666666,0.9166666666666666,0.9047619047619048,1.0
+GaussianNB,"{""classifier__var_smoothing"": 1e-06}",0.5732600732600733,0.5591390091390092,0.5925925925925926,0.5722222222222223,0.9,0.9333333333333332,0.8888888888888888,0.8962962962962964,0.9166666666666666
+Baseline_MostFrequent,{},,,,,0.3,0.09999999999999999,0.3333333333333333,0.15384615384615385,
